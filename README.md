@@ -1,5 +1,5 @@
 <h1 align="center">
- 🖥️ Certificados Dos Meus Cursos De Gestão Da Alura
+ 📖 Certificados Dos Meus Cursos De Gestão Da Alura
 </h1>
 
 <p align="center">
