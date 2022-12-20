@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/Certificados__Alura-orange">
+  <img alt="HTML" src="https://img.shields.io/badge/Certificados__Alura-blue">
  
   <img alt="SASS" src="https://img.shields.io/badge/Gestão-%23blue">
 
